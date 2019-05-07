@@ -1,0 +1,4 @@
+Pere,100,100
+Mere,1,1
+Capsuni,1,1
+
